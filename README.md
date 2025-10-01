@@ -1,3 +1,2 @@
 ## 🎖️ Holopin Badges
-[![@Naman3120Web's Holopin board](https://holopin.io/api/user/board?user=Naman3120Web)](https://holopin.io/@Naman3120Web)
-
+[![An image of @naman3120web's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/naman3120web)](https://holopin.io/@naman3120web)
