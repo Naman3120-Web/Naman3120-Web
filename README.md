@@ -27,7 +27,7 @@
 ## 🎮 Fun Facts & Interests
 
 - **Game Dev Enthusiast**  
-  Currently building “Only One Second Ahead” & game jam projects.
+  Currently building game jam projects.
 - **Music Lover**  
   Always exploring new sounds & genres!
 - **Visual Creativity**  
