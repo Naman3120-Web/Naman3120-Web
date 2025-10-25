@@ -5,7 +5,7 @@
 
 # Hi there, I'm Naman! 👋
 
-🎓 **2nd Year Student — Artificial Intelligence & Data Science (AI & DS) at VCET**
+🎓 **Student — Artificial Intelligence & Data Science (AI & DS) at VCET**
 
 ---
 
