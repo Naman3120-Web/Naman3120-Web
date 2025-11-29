@@ -53,7 +53,7 @@
 ## 🌟 Fun Facts & Interests
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Naman3120-Web/Naman3120-Web/refs/heads/main/banner.jpg" alt="Banner"/>
+  <img src="https://raw.githubusercontent.com/Naman3120-Web/Naman3120-Web/refs/heads/main/banner.png" alt="Banner"/>
 </p>
 
 ---
