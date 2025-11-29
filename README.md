@@ -14,10 +14,6 @@
 
 ---
 
-## 🚀 About Me  
-"Building hybrid projects that connect **Web + AI** | Passionate about learning, creating, and solving challenges"
-
----
 
 ## 🛠️ Tech Stack
 
