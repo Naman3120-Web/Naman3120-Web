@@ -75,20 +75,5 @@
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Naman3120-Web&theme=dark)](https://git.io/streak-stats)
 </p>
 
----
 
-## ⭐ Want variations?
-
-- Change badge styles (flat, plastic, for-the-badge) or theme colors for the stats endpoints.  
-- Swap the activity graph theme: `&theme=github-compact`, `react-dark`, `dracula`, etc.  
-- Hide or show icons on the main stats card with `&show_icons=true|false`.  
-- If a service is occasionally down, replace with the alternate host (activity graph has both `vercel.app` and `cyclic.app` endpoints). :contentReference[oaicite:1]{index=1}
-
----
-
-### Notes & sources
-- GitHub Stats & Top Languages cards — `github-readme-stats` (Anurag Hazra). Use `?username=<your-username>&show_icons=true&theme=<theme>`. :contentReference[oaicite:2]{index=2}  
-- Activity / contribution graph — `github-readme-activity-graph` (Ashutosh00710). Use the `vercel.app` or `cyclic.app` graph endpoint: `https://github-readme-activity-graph.vercel.app/graph?username=<your-username>&theme=<theme>`. :contentReference[oaicite:3]{index=3}  
-- Typing animation — `readme-typing-svg` generator. Customize text, colors, fonts via query params. :contentReference[oaicite:4]{index=4}  
-- Badges/icons — `shields.io` with SimpleIcons (`logo=` param) is used for the icon grid. :contentReference[oaicite:5]{index=5}
 
