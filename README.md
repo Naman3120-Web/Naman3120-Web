@@ -16,7 +16,7 @@
 [![Holopin Badges](https://holopin.me/naman3120web)](https://holopin.io/@naman3120web)
 ---
 
-## 🛠️ Tech Stack
+## 👨🏻‍💻 Tech Stack
 
 ### **Frontend & Full-stack**
 <p align="center">
