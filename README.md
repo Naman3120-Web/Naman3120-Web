@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F7B267&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Naman+Pandey+%F0%9F%91%8B;AI+%26+MERN+Developer+%7C+Building+Hybrid+Web%2BAI+Projects;Game+Dev+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F7B267&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Naman+%F0%9F%91%8B;AI+%26+MERN+Developer+%7C+Building+Hybrid+Web%2BAI+Projects;Game+Dev+Enthusiast" alt="Typing SVG" />
 </p>
 
 ---
