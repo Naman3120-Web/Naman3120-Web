@@ -50,27 +50,27 @@
 </p>
 
 ---
-
-## 🎮 Fun Facts & Interests
+## 🌟 Fun Facts & Interests
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/itsnehasharma/Resources/main/gaming.gif" width="110" alt="Gaming GIF"/>
+  <img src="https://i.imgur.com/8bR8J7X.png" width="650" alt="Gaming Banner"/>
 </p>
 
 - 🎮 **Game Dev Enthusiast**  
-  <img src="https://raw.githubusercontent.com/itsnehasharma/Resources/main/sword.gif" width="32" /> Currently building game jam projects — love mixing creativity and logic.
+  Passionate about building game jam projects — love mixing creativity and logic.
 
 - 🎧 **Music Lover**  
-  <img src="https://raw.githubusercontent.com/itsnehasharma/Resources/main/music.gif" width="32" /> Always exploring new sounds, beats & genres.
+  Always exploring new sounds, beats & genres.
 
 - 🎨 **Visual Creativity**  
-  <img src="https://raw.githubusercontent.com/itsnehasharma/Resources/main/paint.gif" width="32" /> Artist & animation fan — love blending code with creativity.
+  Artist & animation fan — love blending creativity with code.
 
 <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/itsnehasharma/Resources/main/creative-coding.gif" width="260" alt="Creative Coding GIF"/>
+  <img src="https://i.imgur.com/bC7v5lR.png" width="650" alt="Creative Coding Banner"/>
 </p>
+
 
 ---
 
