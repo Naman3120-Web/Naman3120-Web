@@ -38,7 +38,7 @@
   <img src="https://img.shields.io/badge/PostgreSQL-333?logo=postgresql&style=for-the-badge" />
 </p>
 
-### 🤖🧠🇦🇮👾**AI / ML & Agentic AI**
+### 🤖🧠**AI / ML & Agentic AI**
 <p align="center">
   <img src="https://img.shields.io/badge/Python-333?logo=python&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Numpy-333?logo=numpy&style=for-the-badge" />
@@ -61,13 +61,12 @@
 # 📋 GitHub Stats 
 
 
-### 🎯 **Overall Stats**
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Naman3120-Web&show_icons=true&theme=radical" height="160px" />
 </p>
 
-
-## 🤜🤛 Connect With Me  
+---
+# 🤜🤛 Connect With Me  
 
 <p align="center"> <a href="mailto:pandeynaman3120@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> &nbsp; <a href="https://discord.com/users/naman3120_web"> <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /> </a> </p>
 
