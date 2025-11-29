@@ -74,9 +74,8 @@
 
 ---
 
-# 📊 GitHub Stats (WORKING LINKS ✔)
+# 📊 GitHub Stats 
 
-> 🟢 All links below use **the newest stable mirrors** — they won't break.
 
 ### 🔥 **Overall Stats**
 <p align="center">
