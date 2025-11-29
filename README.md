@@ -69,23 +69,8 @@
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Naman3120-Web&show_icons=true&theme=radical" height="160px" />
 </p>
-
-### 📘 **Top Languages**
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Naman3120-Web&layout=compact&theme=radical" height="160px" />
-</p>
-
-### 🔥 **Streak Stats**
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Naman3120-Web&theme=radical&hide_border=false" height="160px" />
-</p>
-
-### 📈 **Activity Graph**
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Naman3120-Web&theme=react-dark" />
-</p>
-
 ---
+
 
 ## 📫 Connect With Me  
 
