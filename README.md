@@ -54,22 +54,22 @@
 ## 🎮 Fun Facts & Interests
 
 <p align="center">
-  <img src="https://media.tenor.com/YZPnGuPeZv8AAAAi/gaming-boy.gif" width="80" alt="Game GIF"/>
+  <img src="https://raw.githubusercontent.com/itsnehasharma/Resources/main/gaming.gif" width="110" alt="Gaming GIF"/>
 </p>
 
 - 🎮 **Game Dev Enthusiast**  
-  <img src="https://media.tenor.com/qC9KqSdzPg4AAAAi/pixel-sword.gif" width="30" /> Currently building game jam projects — love mixing creativity and logic.
+  <img src="https://raw.githubusercontent.com/itsnehasharma/Resources/main/sword.gif" width="32" /> Currently building game jam projects — love mixing creativity and logic.
 
 - 🎧 **Music Lover**  
-  <img src="https://media.tenor.com/cH1XuKTTmS4AAAAi/headphones-music.gif" width="32" /> Always exploring new sounds, beats & genres.
+  <img src="https://raw.githubusercontent.com/itsnehasharma/Resources/main/music.gif" width="32" /> Always exploring new sounds, beats & genres.
 
 - 🎨 **Visual Creativity**  
-  <img src="https://media.tenor.com/VX_UKrxA77cAAAAi/drawing.gif" width="32" /> Artist & animation fan — love blending code with creativity.
+  <img src="https://raw.githubusercontent.com/itsnehasharma/Resources/main/paint.gif" width="32" /> Artist & animation fan — love blending code with creativity.
 
 <br>
 
 <p align="center">
-  <img src="https://media.tenor.com/JcW1ZUp3NEIAAAAC/creative-coding.gif" width="250" />
+  <img src="https://raw.githubusercontent.com/itsnehasharma/Resources/main/creative-coding.gif" width="260" alt="Creative Coding GIF"/>
 </p>
 
 ---
