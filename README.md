@@ -12,7 +12,7 @@
 
 ---
 
-
+## Badges
 [![Holopin Badges](https://holopin.me/naman3120web)](https://holopin.io/@naman3120web)
 ---
 
