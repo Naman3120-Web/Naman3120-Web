@@ -69,6 +69,7 @@
 
 ## 📫 Connect With Me  
 
+<p align="center"> <a href="mailto:pandeynaman3120@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> &nbsp; <a href="https://discord.com/users/naman3120_web"> <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /> </a> </p>
 
 ---
 
