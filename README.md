@@ -49,7 +49,7 @@
   <img src="https://img.shields.io/badge/scikit--learn-333?logo=scikitlearn&style=for-the-badge" />
   <img src="https://img.shields.io/badge/PyTorch-333?logo=pytorch&style=for-the-badge" />
   <img src="https://img.shields.io/badge/LangChain-333?logo=chainlink&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OpenAI-333?logo=openai&style=for-the-badge" />
+
 </p>
 
 ---
@@ -101,7 +101,7 @@
 ---
 
 ## 📫 Connect With Me  
-*(You can add your links here — LinkedIn, Portfolio, Email, etc.)*
+
 
 ---
 
