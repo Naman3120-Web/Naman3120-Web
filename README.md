@@ -53,12 +53,24 @@
 
 ## 🎮 Fun Facts & Interests
 
-- **Game Dev Enthusiast**  
-  Currently building game jam projects.
-- **Music Lover**  
-  Always exploring new sounds & genres!
-- **Visual Creativity**  
-  Artist & animation fan—love blending code with creativity.
+<p align="center">
+  <img src="https://media.tenor.com/YZPnGuPeZv8AAAAi/gaming-boy.gif" width="80" alt="Game GIF"/>
+</p>
+
+- 🎮 **Game Dev Enthusiast**  
+  <img src="https://media.tenor.com/qC9KqSdzPg4AAAAi/pixel-sword.gif" width="30" /> Currently building game jam projects — love mixing creativity and logic.
+
+- 🎧 **Music Lover**  
+  <img src="https://media.tenor.com/cH1XuKTTmS4AAAAi/headphones-music.gif" width="32" /> Always exploring new sounds, beats & genres.
+
+- 🎨 **Visual Creativity**  
+  <img src="https://media.tenor.com/VX_UKrxA77cAAAAi/drawing.gif" width="32" /> Artist & animation fan — love blending code with creativity.
+
+<br>
+
+<p align="center">
+  <img src="https://media.tenor.com/JcW1ZUp3NEIAAAAC/creative-coding.gif" width="250" />
+</p>
 
 ---
 
