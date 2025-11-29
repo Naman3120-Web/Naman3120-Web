@@ -6,14 +6,15 @@
 
 ---
 
-[![Holopin Badges](https://holopin.me/naman3120web)](https://holopin.io/@naman3120web)
-
 # 👋 Hi there, I'm **Naman!**
 
 🎓 **Student — Artificial Intelligence & Data Science (AI & DS)**
 
 ---
 
+
+[![Holopin Badges](https://holopin.me/naman3120web)](https://holopin.io/@naman3120web)
+---
 
 ## 🛠️ Tech Stack
 
@@ -58,15 +59,6 @@
   Always exploring new sounds & genres!
 - **Visual Creativity**  
   Artist & animation fan—love blending code with creativity.
-
----
-
-## 📌 Current Goals
-
-- Master JavaScript (core + advanced)  
-- Build **hybrid AI + Web apps**  
-- Strengthen React & MERN stack  
-- Work on open-source (currently **Oppia**)  
 
 ---
 
