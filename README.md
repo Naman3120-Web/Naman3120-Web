@@ -18,7 +18,7 @@
 
 ## 👨🏻‍💻 Tech Stack
 
-### **Frontend & Full-stack**
+### 🖼️**Frontend & Full-stack**
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-333?logo=javascript&style=for-the-badge" />
   <img src="https://img.shields.io/badge/HTML5-333?logo=html5&style=for-the-badge" />
@@ -30,7 +30,7 @@
   <img src="https://img.shields.io/badge/TailwindCSS-333?logo=tailwindcss&style=for-the-badge" />
 </p>
 
-### **Backend & Databases**
+### 💻⚙️**Backend & Databases**
 <p align="center">
   <img src="https://img.shields.io/badge/Prisma-333?logo=prisma&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Express-333?logo=express&style=for-the-badge" />
@@ -38,7 +38,7 @@
   <img src="https://img.shields.io/badge/PostgreSQL-333?logo=postgresql&style=for-the-badge" />
 </p>
 
-### **AI / ML & Agentic AI**
+### 🤖🧠🇦🇮👾**AI / ML & Agentic AI**
 <p align="center">
   <img src="https://img.shields.io/badge/Python-333?logo=python&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Numpy-333?logo=numpy&style=for-the-badge" />
@@ -58,16 +58,16 @@
 
 ---
 
-# 📊 GitHub Stats 
+# 📋 GitHub Stats 
 
 
-### 🔥 **Overall Stats**
+### 🎯 **Overall Stats**
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Naman3120-Web&show_icons=true&theme=radical" height="160px" />
 </p>
 
 
-## 📫 Connect With Me  
+## 🤜🤛 Connect With Me  
 
 <p align="center"> <a href="mailto:pandeynaman3120@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> &nbsp; <a href="https://discord.com/users/naman3120_web"> <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /> </a> </p>
 
