@@ -53,7 +53,7 @@
 ## 🌟 Fun Facts & Interests
 
 <p align="center">
-  <img src="https://lh3.googleusercontent.com/gg/AIJ2gl8fFOccfLDApm9N9Kq4mSE2qFVBl7IJ-Y_---EmJVH4npndHNtYSqWD69QAghtS6DYcA4nMG2R8NvUB3IOD5kI7Wh1xFesiYXMM0van0e9ChdAQFIxtcQC7MeFZ-bHx6XyjMItaMfO7tOuqbUIHbdUel23nDxllbawqbvILPANzG399WtWB5_xyH4wu7lEq4RYw-tJlxr9-1rw_2JV0xTGW5z_et_tFNKU5e9fLIUlaRnDDPozD8zPYG4I-P9YcM90sym7DO4-lShszeROT1NuVdMY6tIs8g81iw6QdsINkETvD6W4DrRktym2wcS4JNoB4mp8YE8qE8ciOTjzopR7b=s1024-rj" width="650" alt="Gaming Banner"/>
+  <img src="sandbox:/mnt/data/fun_facts_banner.png" width="650" alt="Gaming Banner"/>
 </p>
 
 ---
