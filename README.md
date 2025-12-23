@@ -38,7 +38,7 @@
   <img src="https://img.shields.io/badge/PostgreSQL-333?logo=postgresql&style=for-the-badge" />
 </p>
 
-### 🤖🧠**AI / ML & Agentic AI**
+### 🤖🧠**Agentic AI**
 <p align="center">
   <img src="https://img.shields.io/badge/Python-333?logo=python&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Numpy-333?logo=numpy&style=for-the-badge" />
