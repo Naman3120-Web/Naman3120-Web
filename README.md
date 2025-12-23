@@ -57,17 +57,6 @@
   <a href="https://github.com/Naman3120-Web">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Naman3120-Web&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Naman's GitHub Stats" />
   </a>
-  <a href="https://github.com/Naman3120-Web">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naman3120-Web&layout=compact&theme=tokyonight&langs_count=6" alt="Most Used Languages" />
-  </a>
-</p>
-
-<p align="left">
-  <a href="https://github.com/Naman3120-Web">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Naman3120-Web&theme=tokyonight" alt="GitHub Streak" />
-  </a>
-</p>
-
 ---
 
 ### 🏆 Achievements & Contributions
@@ -82,6 +71,6 @@
 # 🤜🤛 Connect With Me  
 
 <p align="center">
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=your-email@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail" /></a>&nbsp;&nbsp;<a href="https://discord.com/users/YOUR_DISCORD_ID" target="_blank"><img src="https://skillicons.dev/icons?i=discord" height="40" alt="Discord" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=namanpandey3120@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail" /></a>&nbsp;&nbsp;<a href="https://discord.com/users/1444363076865626236" target="_blank"><img src="https://skillicons.dev/icons?i=discord" height="40" alt="Discord" /></a>
 </p>
 
