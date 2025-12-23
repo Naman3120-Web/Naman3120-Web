@@ -50,13 +50,6 @@
 </p>
 
 ---
-## 🌟 Fun Facts & Interests
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Naman3120-Web/Naman3120-Web/refs/heads/main/Banner.png" alt="Banner"/>
-</p>
-
----
 
 # 📋 GitHub Stats 
 
