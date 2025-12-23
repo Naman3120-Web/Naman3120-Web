@@ -57,7 +57,7 @@
 ---
 # 🤜🤛 Connect With Me  
 
-<p align="centre">
+<p align="center">
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=your-email@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail" />
   </a>
