@@ -54,19 +54,10 @@
 # 📋 GitHub Stats 
 
 
-<p align="center">
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=your-email@gmail.com" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahultk18/rahultk18/master/assets/gmail.png" width="40" />
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://discord.com/users/YOUR_DISCORD_ID" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahultk18/rahultk18/master/assets/discord.png" width="40" />
-</a>
-</p>
 ---
 # 🤜🤛 Connect With Me  
 
-<p align="left">
+<p align="centre">
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=your-email@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail" />
   </a>
