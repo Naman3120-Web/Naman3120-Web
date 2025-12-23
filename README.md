@@ -52,12 +52,16 @@
 ---
 
 # 📋 GitHub Stats 
-
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Naman3120-Web&theme=radical&no-frame=false&margin-w=15" alt="trophy" />
+  </a>
+</p>
 
 ---
 # 🤜🤛 Connect With Me  
 
-<p align="left">
+<p align="center">
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=your-email@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail" /></a>&nbsp;&nbsp;<a href="https://discord.com/users/YOUR_DISCORD_ID" target="_blank"><img src="https://skillicons.dev/icons?i=discord" height="40" alt="Discord" /></a>
 </p>
 
