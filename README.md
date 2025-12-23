@@ -51,10 +51,30 @@
 
 ---
 
-# 📋 GitHub Stats 
+## 📊 My GitHub Stats
+
+<p align="left">
+  <a href="https://github.com/Naman3120-Web">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Naman3120-Web&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Naman's GitHub Stats" />
+  </a>
+  <a href="https://github.com/Naman3120-Web">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naman3120-Web&layout=compact&theme=tokyonight&langs_count=6" alt="Most Used Languages" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://github.com/Naman3120-Web">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Naman3120-Web&theme=tokyonight" alt="GitHub Streak" />
+  </a>
+</p>
+
+---
+
+### 🏆 Achievements & Contributions
+
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Naman3120-Web&theme=radical&no-frame=false&margin-w=15" alt="trophy" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Naman3120-Web&theme=tokyonight&no-frame=false&margin-w=15" alt="Naman's Trophies" />
   </a>
 </p>
 
