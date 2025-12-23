@@ -55,9 +55,14 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Naman3120-Web&show_icons=true&theme=radical" height="160px" />
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=your-email@gmail.com" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahultk18/rahultk18/master/assets/gmail.png" width="40" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://discord.com/users/YOUR_DISCORD_ID" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahultk18/rahultk18/master/assets/discord.png" width="40" />
+</a>
 </p>
-
 ---
 # 🤜🤛 Connect With Me  
 
