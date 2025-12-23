@@ -54,9 +54,8 @@
 ## 📊 My GitHub Stats
 
 <p align="left">
-  <a href="https://github.com/Naman3120-Web">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Naman3120-Web&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Naman's GitHub Stats" />
-  </a>
+  <a href="https://github.com/Naman3120-Web"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Naman3120-Web&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Naman's GitHub Stats" /></a>
+  
 ---
   
 # 🤜🤛 Connect With Me  
