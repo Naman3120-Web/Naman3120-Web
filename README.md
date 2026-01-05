@@ -1,4 +1,9 @@
 <p align="center">
+  <img src="https://raw.githubusercontent.com/Naman3120-Web/Naman3120-Web/main/banner.png" alt="Banner" />
+</p>
+
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F7B267&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Naman+%F0%9F%91%8B;AI+%26+MERN+Developer+%7C+Building+Hybrid+Web%2BAI+Projects;Game+Dev+Enthusiast" alt="Typing SVG" />
 </p>
 
@@ -64,10 +69,6 @@
 
 <p align="center">
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=namanpandey3120@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://discord.com/users/1444363076865626236" target="_blank">
-    <img src="https://skillicons.dev/icons?i=discord" height="40" alt="Discord" />
-  </a>
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail" /> </a><a href="https://discord.com/users/1444363076865626236" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" height="40" alt="Discord"/> </a>
 </p>
