@@ -1,99 +1,73 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7B267&center=true&vCenter=true&width=1000&lines=Hey%2C+I'm+Naman+Pandey+%F0%9F%91%8B;AI+%26+MERN+Developer+%F0%9F%A7%A0;Building+Web+%2B+AI+Products;Game+Dev+Enthusiast" />
-</p>
-
-<p align="center">
-  <!-- Animated coder GIF from Cool-GIFs-For-GitHub -->
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/gifs/Happy%20Coder.gif" width="300" alt="Happy Coder" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F7B267&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Naman+%F0%9F%91%8B;AI+%26+MERN+Developer+%7C+Building+Hybrid+Web%2BAI+Projects;Game+Dev+Enthusiast" alt="Typing SVG" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👋 Hi there, I'm **Naman!**
 
-🎓 **AI & DS Student — VCET**  
-🚀 Building **Agentic AI systems + Scalable Web Apps**  
-🎮 Passionate about **Game Mechanics & Interactive Experiences**  
-💡 Turning Ideas into Real Projects
+🎓 **Student — Artificial Intelligence & Data Science (AI & DS)**
 
 ---
 
-## 🔥 Featured Banners
+## 🎖️ Badges
 
-<p align="center">
-  <!-- Motion Logos & Animated Hello -->
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/gifs/Animated%20Hello.gif" height="80" />  
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/gifs/Work%20with%20Coffee.gif" height="80" />
-</p>
+[![Holopin Badges](https://holopin.me/naman3120web)](https://holopin.io/@naman3120web)
 
 ---
 
-## 🧠 Tech Stack
+## 👨🏻‍💻 Tech Stack
 
+### 🖼️ **Frontend & Full-stack**
 <p align="center">
-  <!-- Animated icon example -->
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/gifs/Coding%20Vibe.gif" width="250" alt="Coding Vibe" />
+  <img src="https://img.shields.io/badge/JavaScript-333?logo=javascript&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/HTML5-333?logo=html5&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CSS3-333?logo=css3&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/React-333?logo=react&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Angular-333?logo=angular&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Node.js-333?logo=node.js&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Next.js-333?logo=next.js&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TailwindCSS-333?logo=tailwindcss&style=for-the-badge" />
 </p>
 
-### 💻 Frontend & Full-Stack
+### 💻⚙️ **Backend & Databases**
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-111?logo=javascript&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/React-111?logo=react&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Next.js-111?logo=next.js&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/TailwindCSS-111?logo=tailwindcss&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Prisma-333?logo=prisma&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Express-333?logo=express&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MongoDB-333?logo=mongodb&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PostgreSQL-333?logo=postgresql&style=for-the-badge" />
 </p>
 
-### ⚙️ Backend & Databases
+### 🤖🧠 **Agentic AI**
 <p align="center">
-  <img src="https://img.shields.io/badge/Node.js-111?logo=node.js&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Express-111?logo=express&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MongoDB-111?logo=mongodb&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/PostgreSQL-111?logo=postgresql&style=for-the-badge" />
-</p>
-
-### 🤖 Agentic AI & ML
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-111?logo=python&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/PyTorch-111?logo=pytorch&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LangChain-111?logo=chainlink&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python-333?logo=python&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Numpy-333?logo=numpy&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Pandas-333?logo=pandas&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/scikit--learn-333?logo=scikitlearn&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PyTorch-333?logo=pytorch&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LangChain-333?logo=chainlink&style=for-the-badge" />
 </p>
 
 ---
 
-## 🔭 What I’m Working On
+## 📊 My GitHub Stats
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/gifs/Deep%20Thinking.gif" width="280" alt="Deep Thinking" />
-</p>
-
-- 🧠 Advanced Agentic AI integrations  
-- ⚡ Fully dynamic Next.js products  
-- 🎮 Game mechanics prototypes & fun experiments
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Naman3120-Web&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Naman3120-Web&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naman3120-Web&layout=compact&theme=tokyonight" />
+<p align="left">
+  <a href="https://github.com/Naman3120-Web">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Naman3120-Web&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Naman's GitHub Stats" />
+  </a>
 </p>
 
 ---
 
-## 📫 Connect With Me
+# 🤜🤛 Connect With Me  
 
 <p align="center">
-  <a href="mailto:namanpandey3120@gmail.com"><img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/gifs/Let's%20Catch.gif" height="40" /></a>
-  <a href="https://discord.com/users/1444363076865626236"><img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/gifs/Animated%20Social%20Icon%20-%20Discord.gif" height="40" /></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/gifs/Eat%20Sleep%20Code%20Repeat.gif" width="400" alt="Eat Sleep Code Repeat" />
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=namanpandey3120@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://discord.com/users/1444363076865626236" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" height="40" alt="Discord" />
+  </a>
 </p>
