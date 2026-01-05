@@ -11,9 +11,18 @@
 
 # 👋 Hi there, I'm **Naman!**
 
-🎓 **Student — Artificial Intelligence & Data Science (AI & DS)**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Naman3120-Web/Naman3120-Web/main/gif.gif" width="220" alt="Profile GIF" />
+</p>
 
----
+
+🎓 AI & Data Science student passionate about building scalable **web + AI systems**.  
+
+💡 Interested in **open-source contributions**, **real-world projects**, and **collaborative development**.  
+
+🚀 Actively learning, building, and open to **internships, hackathons, and tech communities**.
+
+--- 
 
 ## 🎖️ Badges
 
@@ -55,15 +64,6 @@
 
 ---
 
-## 📊 My GitHub Stats
-
-<p align="left">
-  <a href="https://github.com/Naman3120-Web">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Naman3120-Web&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Naman's GitHub Stats" />
-  </a>
-</p>
-
----
 
 # 🤜🤛 Connect With Me  
 
