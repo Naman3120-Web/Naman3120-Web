@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Naman3120-Web/Naman3120-Web/main/banner.png" alt="Banner" />
+  <img src="https://raw.githubusercontent.com/Naman3120-Web/Naman3120-Web/main/banner.png" />
 </p>
 
 
@@ -10,9 +10,8 @@
 ---
 
 # 👋 Hi there, I'm **Naman!**
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Naman3120-Web/Naman3120-Web/main/gif.gif" width="220" alt="Profile GIF" />
+  <img src="https://raw.githubusercontent.com/Naman3120-Web/Naman3120-Web/main/banner.png" alt="Banner" />
 </p>
 
 
