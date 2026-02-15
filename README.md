@@ -29,38 +29,23 @@
 
 ---
 
-## 👨🏻‍💻 Tech Stack
+# 👨🏻‍💻 Tech Stack
+## ⚛️ Frontend & Full-Stack
+<p align="center"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />  </p>
 
-### 🖼️ **Frontend & Full-stack**
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-333?logo=javascript&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/HTML5-333?logo=html5&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/React-333?logo=react&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Angular-333?logo=angular&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Node.js-333?logo=node.js&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Next.js-333?logo=next.js&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/TailwindCSS-333?logo=tailwindcss&style=for-the-badge" />
-</p>
+## 🗄️ Databases & ORM
+<p align="center"> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" /> </p>
 
-### 💻⚙️ **Backend & Databases**
-<p align="center">
-  <img src="https://img.shields.io/badge/Prisma-333?logo=prisma&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Express-333?logo=express&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MongoDB-333?logo=mongodb&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/PostgreSQL-333?logo=postgresql&style=for-the-badge" />
-</p>
+## 🎥 Browser APIs & Real-Time
+<p align="center"> <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" /> <img src="https://img.shields.io/badge/WebSocket-333333?style=for-the-badge&logo=socketdotio" /> <img src="https://img.shields.io/badge/HTML5_Canvas-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> </p>
 
-### 🤖🧠 **Agentic AI**
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-333?logo=python&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/scikit--learn-333?logo=scikitlearn&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/PyTorch-333?logo=pytorch&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LangChain-333?logo=chainlink&style=for-the-badge" />
-</p>
+## 🎨 UI / Motion
+<p align="center"> <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" /> <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" /> <img src="https://img.shields.io/badge/Anime.js-444444?style=for-the-badge&logo=animedotjs" /> </p>
+
+## 🧠 AI / Machine Learning (JavaScript Ecosystem)
+<p align="center"> <img src="https://img.shields.io/badge/TensorFlow.js-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/Danfo.js-444444?style=for-the-badge&logo=" /> <img src="https://img.shields.io/badge/OpenCV.js-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" /> <img src="https://img.shields.io/badge/ONNX_Runtime_Web-005CED?style=for-the-badge&logo=onnx" /> </p>
 
 ---
-
-
 # 🤜🤛 Connect With Me  
 
 <p align="center">
