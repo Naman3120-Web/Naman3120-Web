@@ -11,7 +11,7 @@
 
 # 👋 Hi there, I'm **Naman!**
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Naman3120-Web/Naman3120-Web/main/banner.png" alt="Banner" />
+  <img src="https://raw.githubusercontent.com/Naman3120-Web/Naman3120-Web/refs/heads/main/banner.gif" alt="Banner" />
 </p>
 
 
