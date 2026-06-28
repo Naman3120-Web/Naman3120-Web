@@ -9,12 +9,16 @@
 ---
 
 # 👋 Hi there, I'm **Naman!**
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Naman3120-Web/Naman3120-Web/refs/heads/main/Forest.gif" alt="Banner" />
+</p>
+
+---
+
 <p>
 🎓<b> AI & Data Science student passionate about building scalable web + AI systems</b> .<br>
 💡<b> Interested in open-source contributions, real-world projects, and collaborative development</b> .<br>
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Naman3120-Web/Naman3120-Web/refs/heads/main/banner.gif" alt="Banner" />
 </p>
 
 ---
