@@ -19,10 +19,6 @@
 
 ---
 
-## 💻**Collaborator @ oppia**
-
----
-
 # 🛠️ Complete Tech Stack
 
 ## 🎨 Frontend & UI/Motion
